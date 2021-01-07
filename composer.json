@@ -1,0 +1,33 @@
+{
+    "name": "yvv/url-validator",
+    "description": "This is simple validator for url addresses.",
+    "type": "package",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Vladimir Eliseev",
+            "email": "yvv4recon@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "UrlValidator\\":"src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "UrlValidator\\":"src",
+            "Tests\\":"tests"
+        }
+    },
+    "scripts": {
+        "tests":"vendor/phpunit/phpunit/phpunit",
+        "tests_debug":"vendor/phpunit/phpunit/phpunit --debug"
+    }
+}
