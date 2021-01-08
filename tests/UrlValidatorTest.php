@@ -1,9 +1,9 @@
 <?php
 
-namespace Tests;
+namespace Yvv\Tests;
 
 use PHPUnit\Framework\TestCase;
-use UrlValidator\UrlValidator;
+use Yvv\UrlValidator\UrlValidator;
 
 class UrlValidatorTest extends TestCase
 {

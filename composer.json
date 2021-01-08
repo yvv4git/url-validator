@@ -17,13 +17,12 @@
     },
     "autoload": {
         "psr-4": {
-            "UrlValidator\\":"src"
+            "Yvv\\UrlValidator\\":"src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "UrlValidator\\":"src",
-            "Tests\\":"tests"
+            "Yvv\\UrlValidator\\Tests\\":"tests"
         }
     },
     "scripts": {

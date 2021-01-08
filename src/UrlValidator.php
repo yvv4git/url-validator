@@ -1,6 +1,6 @@
 <?php
 
-namespace UrlValidator;
+namespace Yvv\UrlValidator;
 
 /**
  * Class UrlValidator
