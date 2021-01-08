@@ -1,17 +1,17 @@
 # Url validator
 
 # How to
-1. Install by composer 
+* Install by composer 
 ```
 require yvv/url-validator
 ```
 
-2. Tests
+* Tests
 ```
 make tests
 ```
 
-3. Composer autoload update
+* Composer autoload update
 ```
 make autoload_reset
 ```
