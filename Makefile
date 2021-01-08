@@ -1,3 +1,5 @@
+.PHONY: tests
+
 autoload_reset:
 	composer dump-autoload -o
 
