@@ -2,7 +2,7 @@
     "name": "yvv/url-validator",
     "description": "This is simple validator for url addresses.",
     "type": "package",
-    "license": "GPL",
+    "license": "MIT",
     "authors": [
         {
             "name": "Vladimir Eliseev",
