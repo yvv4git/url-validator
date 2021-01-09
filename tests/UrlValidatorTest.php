@@ -1,6 +1,6 @@
 <?php
 
-namespace Yvv\Tests;
+namespace Yvv\UrlValidator\Tests;
 
 use PHPUnit\Framework\TestCase;
 use Yvv\UrlValidator\UrlValidator;
