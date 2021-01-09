@@ -5,3 +5,6 @@ autoload_reset:
 
 tests:
 	composer tests
+
+tests_visual:
+	composer tests_debug

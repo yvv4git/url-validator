@@ -26,7 +26,7 @@
         }
     },
     "scripts": {
-        "tests":"vendor/phpunit/phpunit/phpunit",
-        "tests_debug":"vendor/phpunit/phpunit/phpunit --debug"
+        "tests":"phpunit",
+        "tests_debug":"phpunit --debug"
     }
 }
